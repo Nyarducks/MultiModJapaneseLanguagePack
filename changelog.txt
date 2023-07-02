@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023.7.2
+  Initial Release
+  Added translations for...
+  - ArmouredBiters
+  - DeadlockLargerLamp
+  - DiscoScience
+  - Early-3x3-Electric-Furnaces
+  - Krastorio2-more-locomotives
+  - NuclearFurnace
+  - PollutionSolutionsLite
+  - auto-barrel
