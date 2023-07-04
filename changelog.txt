@@ -1,4 +1,26 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023.7.4
+  Added translations for...
+  - AbandonedRuins
+  - GDIW
+  - Infinity
+  - Krastorio2RFAC
+  - Krastorio2_BioLabModules
+  - PickerDollies
+  - Squeak Through
+  - StatsGui
+  - VehicleSnap
+  - aai-vehicles-ironclad
+  - glutenfree-emergency-burn
+  - holographic_signs
+  - k2-sentinel-mk2
+  - manual-inventory-sort
+  - space-exploration-jetpack-gui
+  - space-exploration-menu-simulations
+  - vtk-armor-plating
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2023.7.2
   Initial Release
@@ -10,4 +32,5 @@ Date: 2023.7.2
   - Krastorio2-more-locomotives
   - NuclearFurnace
   - PollutionSolutionsLite
+  - ReStack
   - auto-barrel
