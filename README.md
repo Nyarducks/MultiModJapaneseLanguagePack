@@ -1,1 +1,1 @@
-# MultiModJapaneseLanguagePack_1.0.1
+# MultiModJapaneseLanguagePack_1.0.2
